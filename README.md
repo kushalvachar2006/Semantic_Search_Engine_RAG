@@ -1,5 +1,9 @@
 # Semantic Search Engine (RAG)
 
+## Architecture Diagram
+
+![RAG Architecture](architecture.png)
+
 ## Overview
 This project is a simple Semantic Search Engine built using:
 
